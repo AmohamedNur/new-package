@@ -1,0 +1,18 @@
+{
+    "name": "abdiwali/new_package",
+    "description": "dit is stage opdracht",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abdiwali\\NewPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AmohamedNur",
+            "email": "302881042@student.rocmondriaan.nl"
+        }
+    ],
+    "require": {}
+}
